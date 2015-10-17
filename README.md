@@ -8,3 +8,5 @@ This is a project for the class CECS 579, Information Security, at CSULB Fall 20
   b. server package
   
 Code will be written in C++, and I plan to use Crpyto++ for cryptographic tools.
+
+See Block Diagram for representation of authentication scheme
